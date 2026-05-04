@@ -1,5 +1,6 @@
 # 2026_Year9_GameDev_Capstone
 
+27/4/26
 [Game idea Brainstorm.docx](https://github.com/user-attachments/files/27090970/Game.idea.Brainstorm.docx)
 
 [Reef_Rescue_Requirements.txt](https://github.com/user-attachments/files/27109250/Reef_Rescue_Requirements.txt)
@@ -49,3 +50,10 @@ SCOPE — OUT OF SCOPE
 
 ==================================================
 Exported from GameDev Studio Requirements Lesson
+
+4/05/26
+
+Started on and finished all three onion chart, four corners, and element checklist docs today
+[onion-design-planning-page.docx](https://github.com/user-attachments/files/27326925/onion-design-planning-page.docx)
+[game-design-element-checklist.docx](https://github.com/user-attachments/files/27326923/game-design-element-checklist.docx)
+[four-corners.docx](https://github.com/user-attachments/files/27326922/four-corners.docx)
