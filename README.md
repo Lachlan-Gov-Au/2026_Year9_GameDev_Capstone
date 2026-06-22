@@ -57,3 +57,9 @@ Started on and finished all three onion chart, four corners, and element checkli
 [onion-design-planning-page.docx](https://github.com/user-attachments/files/27326925/onion-design-planning-page.docx)
 [game-design-element-checklist.docx](https://github.com/user-attachments/files/27326923/game-design-element-checklist.docx)
 [four-corners.docx](https://github.com/user-attachments/files/27326922/four-corners.docx)
+
+
+
+5/05/26 -> 22/06/26 DEVELOPEMENT
+
+Between these 2 dates ive been working on the game and it is practically finished and completed from the Character to a working camera, door, time, and power system. The game has about 6 monobehaviour scripts to all of the mechanics:
